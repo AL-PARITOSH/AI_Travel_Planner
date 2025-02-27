@@ -7,4 +7,4 @@ This is an AI-powered travel planner that helps you find the best travel options
 1. Clone this repository:
    ```bash
    git clone <repo-url>
-   cd ai_travel_planner
+   cd <address-url>
